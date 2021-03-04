@@ -13,6 +13,6 @@ public class Test {
            a=a+i;
        }
 
-       System.out.println("和是："+a);
+       System.out.println("落霞与孤鹜齐飞是："+a);
     }
 }
